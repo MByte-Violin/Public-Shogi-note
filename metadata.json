@@ -1,0 +1,5 @@
+{
+  "name": "将棋振り返りアプリ",
+  "description": "自分の将棋対局データを解析・整理・振り返りできるアプリ。GitHub連携でデータを保存します。",
+  "requestFramePermissions": []
+}
