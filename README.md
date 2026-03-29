@@ -13,6 +13,7 @@
 
 1.  **リポジトリをインポート**:
     - このリポジトリを自分の GitHub アカウントに「Private」リポジトリとしてインポートしてください。
+    - https://github.com/new/import
 
 2.  **下記リンクへアクセス**:
     - https://github.com/MByte-Violin/Public-Shogi-note
