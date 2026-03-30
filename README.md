@@ -16,7 +16,7 @@
     - https://github.com/new/import
 
 2.  **下記リンクへアクセス**:
-    - https://github.com/MByte-Violin/Public-Shogi-note
+    - [UI画面アクセスページ](https://mbyte-violin.github.io/Public-Shogi-note/)
 
 3.  **アプリにアクセスしてログイン**:
     - 発行されたURLにアクセスします。
